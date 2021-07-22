@@ -1,0 +1,3 @@
+include ':toasts'
+include ':app'
+rootProject.name = "Random Word Creator Kotlin"
